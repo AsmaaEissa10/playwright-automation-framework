@@ -1,0 +1,28 @@
+{
+  "account": {
+    "name": "Test User",
+    "emailPrefix": "qauser",
+    "password": "P@ssw0rd!23",
+    "title": "Mr",
+    "dobDay": "10",
+    "dobMonth": "5",
+    "dobYear": "1995",
+    "firstName": "John",
+    "lastName": "Doe",
+    "company": "Acme Inc",
+    "address1": "123 Main Street",
+    "address2": "Suite 4",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "zipcode": "90001",
+    "mobile": "+15551234567"
+  },
+  "payment": {
+    "nameOnCard": "John Doe",
+    "cardNumber": "4111111111111111",
+    "cvc": "123",
+    "expiryMonth": "12",
+    "expiryYear": "2030"
+  }
+}
